@@ -3,4 +3,4 @@
 
 GTF for the class with very little time.
 
-[Lambo!](images/1242.jpg)
+![Lambo!](images/1242.jpg)
